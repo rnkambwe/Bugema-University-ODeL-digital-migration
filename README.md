@@ -21,7 +21,7 @@ The platform was successfully built, deployed, and **formally licensed by the Na
 
 This digital transformation project was documented and featured as a national higher-education case study highlighting institutional resilience and strategic IT partnerships.
 
-* 📄 **Read the full published article (Pages 53–55):** [`https://renu.ac.ug/wp-content/uploads/2024/01/RENU-Newsletter-2021.pdf`](docs/Digital Migration Project.pdf)
+* 📄 **Read the full published article (Pages 53–55):** [RENU Annual Newsletter 2021 (PDF)](https://renu.ac.ug/wp-content/uploads/2024/01/RENU-Newsletter-2021.pdf#page=53)
 
 ---
 
